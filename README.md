@@ -1,2 +1,2 @@
 # AquaGuard-Alliance
-AquaGuard Alliance is an open-source project dedicated to leveraging blockchain technology and IoT solutions for the preservation of coral reefs and marine habitats.
+AquaGuard Alliance is an open-source project dedicated to leveraging blockchain technology and IoT solutions for the preservation of coral reefs and marine habitats. This repository contains the codebase for our decentralized platform, tools for real-time monitoring of marine ecosystems, and resources for empowering coastal communities through sustainable practices and economic opportunities. Join us in our mission to protect our oceans and support local fishermen!
