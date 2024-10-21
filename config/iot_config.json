@@ -1,0 +1,19 @@
+{
+    "devices": [
+        {
+            "id": "sensor_1",
+            "type": "temperature",
+            "protocol": "MQTT",
+            "mqtt_broker": "mqtt://broker.hivemq.com",
+            "topic": "home/sensors/temperature"
+        },
+        {
+            "id": "sensor_2",
+            "type": "humidity",
+            "protocol": "MQTT",
+            "mqtt_broker": "mqtt://broker.hivemq.com",
+            "topic": "home/sensors/humidity"
+        }
+    ],
+    "update_interval": 60000
+}
