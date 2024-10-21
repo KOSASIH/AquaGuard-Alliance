@@ -1,0 +1,14 @@
+{
+    "app_name": "AquaGuard Alliance",
+    "port": 3000,
+    "environment": "development",
+    "database": {
+        "url": "mongodb://localhost:27017/aquaguard",
+        "options": {
+            "useNewUrlParser": true,
+            "useUnifiedTopology": true
+        }
+    },
+    "jwt_secret": "YOUR_JWT_SECRET",
+    "log_level": "info"
+}
