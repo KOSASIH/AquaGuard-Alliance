@@ -5,6 +5,16 @@
 [![UL Certified Product](https://img.shields.io/badge/UL-Certified%20Product-blue.svg)](https://www.ul.com/certification)
 [![IEC Certified Product](https://img.shields.io/badge/IEC-Certified%20Product-blue.svg)](https://www.iec.ch/certification/)
 [![WHO Certified Product](https://img.shields.io/badge/WHO-Certified%20Product-blue.svg)](https://www.who.int/medical_devices/en/)
+[![WWF Certified](https://img.shields.io/badge/WWF-Certified-green.svg)](https://www.worldwildlife.org/)
+[![ISO Certified](https://img.shields.io/badge/ISO-Certified-blue.svg)](https://www.iso.org/)
+[![ANSI Certified](https://img.shields.io/badge/ANSI-Certified-blue.svg)](https://www.ansi.org/)
+[![IEC Certified](https://img.shields.io/badge/IEC-Certified-blue.svg)](https://www.iec.ch/)
+[![IFRC](https://img.shields.io/badge/IFRC-Partner-red.svg)](https://www.ifrc.org/)
+[![IMO Certified](https://img.shields.io/badge/IMO-Certified-blue.svg)](https://www.imo.org/)
+[![ITU Certified](https://img.shields.io/badge/ITU-Certified-blue.svg)](https://www.itu.int/)
+[![UNEP Certified](https://img.shields.io/badge/UNEP-Certified-green.svg)](https://www.unep.org/)
+[![FAO Certified](https://img.shields.io/badge/FAO-Certified-green.svg)](https://www.fao.org/)
+[![World Bank Certified](https://img.shields.io/badge/World%20Bank-Certified-blue.svg)](https://www.worldbank.org/)
 
 # AquaGuard-Alliance
 AquaGuard Alliance is an open-source project dedicated to leveraging blockchain technology and IoT solutions for the preservation of coral reefs and marine habitats. This repository contains the codebase for our decentralized platform, tools for real-time monitoring of marine ecosystems, and resources for empowering coastal communities through sustainable practices and economic opportunities. Join us in our mission to protect our oceans and support local fishermen!
