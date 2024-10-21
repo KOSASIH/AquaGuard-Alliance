@@ -1,0 +1,8 @@
+{
+    "network": "mainnet",
+    "rpc_url": "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+    "contract_address": "0xYourContractAddress",
+    "private_key": "YOUR_PRIVATE_KEY",
+    "gas_limit": 3000000,
+    "gas_price": "20000000000"
+}
