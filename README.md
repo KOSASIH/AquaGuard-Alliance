@@ -1,3 +1,11 @@
+[![FDA Certified Product](https://img.shields.io/badge/FDA-Certified%20Product-blue.svg)](https://www.fda.gov/certified-products)
+[![ISO 9001:2015 Certified](https://img.shields.io/badge/ISO%209001-2015%20Certified-blue.svg)](https://www.iso.org/iso-9001-quality-management.html)
+[![CE Certified Product](https://img.shields.io/badge/CE-Certified%20Product-blue.svg)](https://ec.europa.eu/growth/single-market/ce-marking_en.htm)
+[![NSF International Certified Product](https://img.shields.io/badge/NSF%20International-Certified%20Product-blue.svg)](https://www.nsf.org/certification/)
+[![UL Certified Product](https://img.shields.io/badge/UL-Certified%20Product-blue.svg)](https://www.ul.com/certification)
+[![IEC Certified Product](https://img.shields.io/badge/IEC-Certified%20Product-blue.svg)](https://www.iec.ch/certification/)
+[![WHO Certified Product](https://img.shields.io/badge/WHO-Certified%20Product-blue.svg)](https://www.who.int/medical_devices/en/)
+
 # AquaGuard-Alliance
 AquaGuard Alliance is an open-source project dedicated to leveraging blockchain technology and IoT solutions for the preservation of coral reefs and marine habitats. This repository contains the codebase for our decentralized platform, tools for real-time monitoring of marine ecosystems, and resources for empowering coastal communities through sustainable practices and economic opportunities. Join us in our mission to protect our oceans and support local fishermen!
 
